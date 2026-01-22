@@ -1,4 +1,14 @@
 # Patent-Project
+
+## 🔐 Intellectual Property Notice
+
+This project is protected under a filed/published patent.
+The source code is shared strictly for academic, research,
+and demonstration purposes.
+
+No patent rights are granted through this repository.
+Unauthorized commercial use is prohibited.
+
 # 🏥 Medi-Alert
 
 ### *An Intelligent Real-Time Patient Monitoring and Alerting System*
