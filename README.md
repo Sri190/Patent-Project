@@ -109,4 +109,4 @@ Unauthorized commercial use, reproduction, or deployment without permission is p
 
 ## 📬 Contact
 
-For academic collaboration, research discussion, or authorized usage inquiries, please contact the repository owner.
+For academic collaboration, research discussion, or authorized usage inquiries, please request through G-mail - deathcreatorslegend@gmail.com
