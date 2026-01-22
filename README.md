@@ -119,4 +119,4 @@ Unauthorized commercial use, reproduction, or deployment without permission is p
 
 ## 📬 Contact
 
-For academic collaboration, research discussion, or authorized usage inquiries, please request through G-mail - deathcreatorslegend@gmail.com
+For academic collaboration, research discussion, or authorized usage inquiries, please contact the patent holder through St.Joseph's College of Engineering, OMR, Chennai-119.
